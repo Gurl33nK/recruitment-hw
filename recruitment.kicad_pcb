@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 (kicad_pcb (version 20211014) (generator pcbnew)
 =======
 (kicad_pcb (version 20221018) (generator pcbnew)
 >>>>>>> 6b4a8ca (Add: PCB layout with 25A power zones and via stitching)
+=======
+(kicad_pcb (version 20221018) (generator pcbnew)
+>>>>>>> 6d05466 (Caricamento completo di tutti i file di progetto e documentazione)
 
   (general
     (thickness 1.6)
@@ -66,14 +70,19 @@
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       (plot_on_all_layers_selection 0x0000000_00000000)
 >>>>>>> 6b4a8ca (Add: PCB layout with 25A power zones and via stitching)
+=======
+      (plot_on_all_layers_selection 0x0000000_00000000)
+>>>>>>> 6d05466 (Caricamento completo di tutti i file di progetto e documentazione)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
       (usegerberadvancedattributes true)
       (creategerberjobfile true)
+<<<<<<< HEAD
 <<<<<<< HEAD
       (svguseinch false)
       (svgprecision 6)
@@ -83,6 +92,11 @@
       (dashed_line_gap_ratio 3.000000)
       (svgprecision 6)
 >>>>>>> 6b4a8ca (Add: PCB layout with 25A power zones and via stitching)
+=======
+      (dashed_line_dash_ratio 12.000000)
+      (dashed_line_gap_ratio 3.000000)
+      (svgprecision 6)
+>>>>>>> 6d05466 (Caricamento completo di tutti i file di progetto e documentazione)
       (plotframeref false)
       (viasonmask false)
       (mode 1)
@@ -101,10 +115,14 @@
       (sketchpadsonfab false)
       (subtractmaskfromsilk false)
 <<<<<<< HEAD
+<<<<<<< HEAD
       (outputformat 2)
 =======
       (outputformat 1)
 >>>>>>> 6b4a8ca (Add: PCB layout with 25A power zones and via stitching)
+=======
+      (outputformat 1)
+>>>>>>> 6d05466 (Caricamento completo di tutti i file di progetto e documentazione)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
@@ -113,6 +131,7 @@
   )
 
   (net 0 "")
+<<<<<<< HEAD
 <<<<<<< HEAD
   (net 1 "Net-(C1-Pad1)")
 
@@ -153,6 +172,8 @@
       (net 1 "Net-(C1-Pad1)") (pintype "passive") (tstamp 21bf57d0-28b6-409a-ab0a-5a911ce880a9))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 =======
+=======
+>>>>>>> 6d05466 (Caricamento completo di tutti i file di progetto e documentazione)
   (net 1 "/Power Logic/MON_VCC")
   (net 2 "GND")
   (net 3 "3V3_SENS")
@@ -232,13 +253,17 @@
     (pad "2" thru_hole oval (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 4 "+5V") (pintype "passive") (tstamp f89f6c82-a593-426e-a1fc-6629f9d1a469))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+<<<<<<< HEAD
 >>>>>>> 6b4a8ca (Add: PCB layout with 25A power zones and via stitching)
+=======
+>>>>>>> 6d05466 (Caricamento completo di tutti i file di progetto e documentazione)
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
+<<<<<<< HEAD
 <<<<<<< HEAD
   (segment (start 143 86.75) (end 146.5 83.25) (width 0.25) (layer "F.Cu") (net 1) (tstamp 012a9e13-a0a9-42dd-8736-632b7014e582))
   (segment (start 146.5 83.25) (end 147.25 83.25) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0e178a31-8ec5-4b7b-890e-c47e021a2170))
@@ -304,6 +329,8 @@
   (arc (start 149.05 82.25) (mid 149.262132 82.337868) (end 149.35 82.55) (width 0.25) (layer "F.Cu") (net 1) (tstamp fd5bc414-f909-4974-a671-f826d4ef6f6b))
 
 =======
+=======
+>>>>>>> 6d05466 (Caricamento completo di tutti i file di progetto e documentazione)
   (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 2c9333e4-5f59-4dfe-a4d1-c0a17908d690)
     (at 188.553469 65.5725 90)
@@ -4301,5 +4328,8 @@
       )
     )
   )
+<<<<<<< HEAD
 >>>>>>> 6b4a8ca (Add: PCB layout with 25A power zones and via stitching)
+=======
+>>>>>>> 6d05466 (Caricamento completo di tutti i file di progetto e documentazione)
 )
